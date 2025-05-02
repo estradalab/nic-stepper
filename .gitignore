@@ -1,0 +1,12 @@
+.pio
+.vscode/
+sdkconfig.esp32-s3-devkitc-1
+
+# CMakeLists.txt
+# sdkconfig.esp32-s3-devkitc-1
+# test/
+# lib/
+# .vscode/
+# src/output/
+# src/CMakeLists.txt
+# src/esp32-learning.code-workspace
